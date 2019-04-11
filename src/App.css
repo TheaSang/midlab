@@ -1,0 +1,50 @@
+.app{
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+.title{
+    background-color:lightcoral;
+ 
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.word1{
+    background-color: lightpink;
+    text-align: center;
+    font-size: 30px;
+    height:50px;
+  
+}
+.word2{
+    background-color: lightpink;
+    text-align: center;
+    font-size: 30px;
+    height:50px;
+    
+}
+.word3{
+    background-color: lightpink;
+    text-align: center;
+    font-size: 30px;
+    height:50px;
+}
+.word4{
+    background-color: lightpink;
+    text-align: center;
+    font-size: 30px;
+    height:50px;
+    
+}
+.button{
+    background-color: lightsalmon;
+    text-align: center;
+    height:50px;
+}
+.story{
+    background-color: lightgoldenrodyellow;
+    height:600px;
+    font-size: 40px;
+    text-align: center;
+
+}
